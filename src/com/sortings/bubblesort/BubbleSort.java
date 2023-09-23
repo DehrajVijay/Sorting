@@ -66,6 +66,7 @@ public class BubbleSort {
 			}
 
 		}
+		// for loop for descending order of array printing.
 		System.out.println("Descending Order:");
 		for (int i = 0; i < array.length; i++) {
 			System.out.print(array[i] + " ");
